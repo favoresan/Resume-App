@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:resume_app/resources/theme_manager.dart';
 import 'package:resume_app/resume.dart';
 
 class MyApp extends StatelessWidget {
@@ -8,11 +9,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Resume App',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: const Resume(),
+      // title: 'Resume App',
+      theme: getApplicationDarkTheme(),
+      home: Resume(),
     );
   }
 }
