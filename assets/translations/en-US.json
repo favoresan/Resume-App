@@ -1,0 +1,20 @@
+{
+  "work": "Flutter Developer",
+  "myP": "My Projects",
+  "coding": "Coding",
+  "skills": "Skills",
+  "username": "Username:",
+  "newsWatchDesc": "An application which will display news articles. User can browse news articles through various categories. App will enable user to view news details and images.",
+  "sAppDesc": "Educational learning app with features such as Knowledge augmentation, tailored learning experiences, access to online study material, ease of communication.\nComing soon.",
+  "bmiCalcDesc": "BMI Calculator is an app that allows you to monitor BMI and percentage of fat in your body. Ideal weight - app calculates the ideal weight you should gain.",
+  "abtMe": "About Me",
+  "launch": "could not launch",
+  "seeMore": "See More >>",
+  "welcome1": "Welcome to my\nportfolio!",
+  "welcome2": "Welcome to my portfolio!",
+  "iBuild": "I build responsive mobile apps.",
+  "city": "City:",
+  "changeLang": "Change Language",
+  "residence": "Residence:",
+  "aboutMe": "Innovative, task-driven professional, equipped with a record of success in consistently identifying and providing technological needs through ingenious innovation.\n\nI am good at creating user interfaces, writing and testing codes, troubleshooting simple/complex issues, and implementing new features based on user feedback.\n\nI am also proud of my ability to preserve and overcome any challenges as they come up."
+}

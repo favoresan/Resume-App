@@ -1,7 +1,34 @@
 class AppStrings {
   static const String name = 'Esan Favour';
-  static const String myP = 'My Projects';
-  static const String coding = 'Coding';
-  static const String aboutMe =
-      'Innovative, task-driven professional, equipped with a record of success in consistently identifying and providing the technological needs of companies through ingenious innovation. Creating user interfaces, writing and testing codes, troubleshooting simple/complex issues, and implementing new features based on user feedback.';
+  static const String work = "work";
+  static const String myP = "myP";
+  static const String coding = "coding";
+  static const String country = 'Nigeria';
+  static const String skills = "skills";
+  static const String slack = '@favoresan';
+  static const String username = "username";
+  static const String lag = 'Lagos';
+  static const String newsWatch = 'NewsWatch';
+  static const String newsWatchDesc = "newsWatchDesc";
+  static const String sApp = 'Study App';
+  static const String sAppDesc = "sAppDesc";
+  static const String bmiCalc = 'BMI Calculator';
+  static const String bmiCalcDesc = "bmiCalcDesc";
+  static const String dart = 'Dart';
+  static const String html = 'HTML';
+  static const String abtMe = "abtMe";
+  static const String launch = "launch";
+  static const String seeMore = "seeMore";
+  static const String css = 'CSS';
+  static const String welcome1 = "welcome1";
+  static const String welcome2 = "welcome2";
+  static const String javascript = 'JavaScript';
+  static const String iBuild = "iBuild";
+  static const String flutter = 'Flutter';
+  static const String firebase = 'Firebase';
+  static const String github = 'Github';
+  static const String city = "city";
+  static const String residence = "residence";
+  static const String changeLang = "changeLang";
+  static const String aboutMe = "aboutMe";
 }

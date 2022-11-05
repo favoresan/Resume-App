@@ -1,0 +1,20 @@
+{
+  "work": "Flutter Développeur",
+  "myP": "Mes Projets",
+  "coding": "Codage",
+  "skills": "Compétences",
+  "username": "Nom d'utilisateur:",
+  "newsWatchDesc": "Une application qui affichera des articles d'actualité. L'utilisateur peut parcourir les articles de presse à travers différentes catégories. L'application permettra à l'utilisateur de voir les détails de l'actualité et les images.",
+  "sAppDesc": "Application d'apprentissage éducatif avec des fonctionnalités telles que l'augmentation des connaissances, des expériences d'apprentissage personnalisées, l'accès au matériel d'étude en ligne, la facilité de communication.\nBientôt disponible.",
+  "bmiCalcDesc": "BMI Calculator est une application qui vous permet de surveiller l'IMC et le pourcentage de graisse dans votre corps. Poids idéal - l'application calcule le poids idéal que vous devriez gagner.",
+  "abtMe": "À Propos De Moi",
+  "launch": "n'a pas pu lancer",
+  "seeMore": "Voir Plus >>",
+  "welcome1": "Bienvenue dans mon\nportefeuille!",
+  "welcome2": "Bienvenue dans mon portefeuille!",
+  "iBuild": "Je crée des applications mobiles\nresponsives.",
+  "city": "Ville:",
+  "changeLang": "Changer De Langue",
+  "residence": "Résidence:",
+  "aboutMe": "Professionnel innovant, axé sur les tâches, doté d'un historique de succès dans l'identification et la fourniture constantes des besoins technologiques grâce à une innovation ingénieuse.\n\nJe suis doué pour créer des interfaces utilisateur, écrire et tester des codes, résoudre des problèmes simples/complexes et implémenter de nouvelles fonctionnalités basées sur les commentaires des utilisateurs.\n\nJe suis également fier de ma capacité à préserver et à surmonter tous les défis à mesure qu'ils se présentent."
+}

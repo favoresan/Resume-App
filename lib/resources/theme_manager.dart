@@ -6,9 +6,10 @@ import 'font_manager.dart';
 
 ThemeData getApplicationDarkTheme() {
   return ThemeData.dark().copyWith(
-    primaryColor: ColorManager.primary,
-    colorScheme:
-        ColorScheme.fromSwatch().copyWith(secondary: ColorManager.secondary),
+    brightness: Brightness.dark,
+    primaryColor: ColorManager.primaryDark,
+    colorScheme: ColorScheme.fromSwatch()
+        .copyWith(secondary: ColorManager.secondaryDark),
     visualDensity: VisualDensity.adaptivePlatformDensity,
     textTheme: TextTheme(
       displayMedium:
@@ -33,25 +34,26 @@ ThemeData getApplicationDarkTheme() {
       ),
       bodyLarge:
           getBoldStyle(color: ColorManager.white, fontSize: FontSize.s27),
-      bodySmall:
-          getMediumStyle(color: ColorManager.secondary, fontSize: FontSize.s16),
+      bodySmall: getMediumStyle(
+          color: ColorManager.secondaryDark, fontSize: FontSize.s16),
     ),
   );
 }
 
 ThemeData getApplicationLightTheme() {
   return ThemeData.light().copyWith(
-    primaryColor: ColorManager.primary,
-    colorScheme:
-        ColorScheme.fromSwatch().copyWith(secondary: ColorManager.secondary),
+    brightness: Brightness.light,
+    primaryColor: ColorManager.primaryLight,
+    colorScheme: ColorScheme.fromSwatch()
+        .copyWith(secondary: ColorManager.secondaryDark),
     visualDensity: VisualDensity.adaptivePlatformDensity,
     textTheme: TextTheme(
       displayMedium:
-          getSemiBoldStyle(color: ColorManager.white, fontSize: FontSize.s18),
+          getSemiBoldStyle(color: ColorManager.black, fontSize: FontSize.s18),
       displayLarge:
-          getBoldStyle(color: ColorManager.white, fontSize: FontSize.s22),
+          getBoldStyle(color: ColorManager.black, fontSize: FontSize.s22),
       displaySmall: getRegularStyle(
-        color: ColorManager.white,
+        color: ColorManager.black,
         fontSize: FontSize.s17,
       ),
       titleSmall: getRegularStyle(
@@ -68,8 +70,8 @@ ThemeData getApplicationLightTheme() {
       ),
       bodyLarge:
           getBoldStyle(color: ColorManager.white, fontSize: FontSize.s27),
-      bodySmall:
-          getMediumStyle(color: ColorManager.secondary, fontSize: FontSize.s16),
+      bodySmall: getMediumStyle(
+          color: ColorManager.secondaryDark, fontSize: FontSize.s16),
     ),
   );
 }
