@@ -26,6 +26,6 @@
 <p>Creating a light theme was my only challenge, I had to try different colours till I found the right one.</p>
 <p>If I had more time to develop this project, I would have added a screen for my achievements and recommendations. More animations too.</p>
 <h1 align="left">Apk Link</h1>
-<a href="https://drive.google.com/file/d/1Fqzy_LtuVy7wCqEKOidBQZo2Y4fqFXb6/view?usp=sharing">Apk link</a>
+<a href="https://drive.google.com/file/d/1LNe4zpHrqc-S1grYoOwcjkBsmvR-3Sea/view?usp=sharing">Apk link</a>
 <h1 align="left">Appetize Link</h1>
 <a href="https://appetize.io/app/hmetkan57ymwzlexvc2tgr2yn4">Appetize link</a>
