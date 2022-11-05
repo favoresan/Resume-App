@@ -11,7 +11,7 @@ import 'package:url_launcher/url_launcher_string.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:easy_localization/easy_localization.dart';
-import 'package:resume_app/app/model.dart';
+import 'package:resume_app/model/model.dart';
 
 class Resume extends StatelessWidget {
   Resume({Key? key}) : super(key: key);
