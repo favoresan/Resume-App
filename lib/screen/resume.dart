@@ -27,7 +27,7 @@ class Resume extends StatelessWidget {
       drawer: Drawer(
         width: query.orientation == Orientation.portrait
             ? query.size.width * 0.8
-            : query.size.width * 0.4,
+            : query.size.width * 0.47,
         backgroundColor: customScaffoldColor(context),
         child: SafeArea(
           child: Column(
@@ -453,11 +453,14 @@ class Resume extends StatelessWidget {
                                 child: Text(
                                   AppStrings.seeMore.tr(),
                                   style: theme.bodySmall,
-                                ))
+                                )),
                           ],
                         ),
                       );
                     }),
+                SizedBox(
+                  height: AppSize.s20,
+                ),
               ],
             ),
           ),
