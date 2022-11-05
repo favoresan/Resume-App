@@ -28,4 +28,4 @@
 <h1 align="left">Apk Link</h1>
 <a href="https://drive.google.com/file/d/1LNe4zpHrqc-S1grYoOwcjkBsmvR-3Sea/view?usp=sharing">Apk link</a>
 <h1 align="left">Appetize Link</h1>
-<a href="[https://appetize.io/app/hmetkan57ymwzlexvc2tgr2yn4](https://appetize.io/app/v2edxblm2vrlinw54pxvbb3vtu)">Appetize link</a>
+<a href="https://appetize.io/app/v2edxblm2vrlinw54pxvbb3vtu">Appetize link</a>
